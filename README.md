@@ -17,3 +17,5 @@ Apply K-means Clustering: The K-means algorithm is applied to cluster the data i
 Visualize the Results: The clusters are visualized to understand the performance of the algorithm
 ## Results
 The K-means algorithm successfully clusters the Iris dataset into three clusters, corresponding to the three species of Iris flowers. The visualization shows the clustering results with cluster centers marked in red.
+## Acknowledment
+https://github.com/Victor-Ikechukwu Thank you for your invaluable insights, feedback, and continuous support throughout the development of this project
